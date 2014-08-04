@@ -18,7 +18,11 @@ IMAGES
 ![](http://i.imgur.com/Pmgi1UY.png)
 ![](http://i.imgur.com/hVK3npU.png)
 
-> [【Demo】](http://tonypai.twbbs.org/fgj2014coop)
+
+DEMO
+----
+
+[http://tonypai.twbbs.org/fgj2014coop](http://tonypai.twbbs.org/fgj2014coop)
 
 
 STORY
